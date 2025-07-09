@@ -39,42 +39,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,ubuntu,arch,threejs" alt="Tools" />
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zegarradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zegarradev&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zegarradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zegarradev&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zegarradev&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zegarradev&theme=tokyonight&hide_border=true">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zegarradev&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zegarradev&layout=compact&theme=default&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zegarradev&layout=compact&theme=tokyonight&hide_border=true">
-  </picture>
-</div>
-
-## 🎯 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/d3vlz/proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d3vlz&repo=proyecto-1&theme=tokyonight&hide_border=true" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/d3vlz/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d3vlz&repo=proyecto-2&theme=tokyonight&hide_border=true" alt="Proyecto 2" />
-  </a>
-</div>
 
 ## 🌐 Conectemos
 
